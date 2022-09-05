@@ -9,4 +9,5 @@ git test git init 初始化本地库 会在相应的目录生成.git文件夹
 git test git add  将目录中的文件被git进行跟踪
 git test git status 查看当前状态
 git test git commit 提交到本地库
-git test
+git test git push origin master 推送到远程库
+git test git 修改HelloWorld.txt文件看看效果
